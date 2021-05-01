@@ -7,7 +7,7 @@ Here, we've orchestrated a docker container with a bare minimum React Native app
 ## pre-requisites
 
 - docker
-- docker-compose (which usually comes along with docker but it's not the case then yeah)
+- docker-compose (which usually comes along with docker but if it's not the case then yeah)
 
 ## steps
 
